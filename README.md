@@ -1,1 +1,1 @@
-# Interactive_Web_based_Arithmetic-Calculator
+# Simple-Calculator
